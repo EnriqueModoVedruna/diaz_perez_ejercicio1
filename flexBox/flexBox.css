@@ -1,0 +1,14 @@
+.cabecera{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.cabecera img{
+height: 100px;
+width: 300px;
+}
+
+.cabecera .menu ul{
+    display: inline-flex;
+    gap: 10px;
+}
