@@ -12,3 +12,14 @@ width: 300px;
     display: inline-flex;
     gap: 10px;
 }
+
+.inicio{
+    display: inline-flex;
+    justify-content: flex-start;
+}
+
+.inicio .botones{
+    
+    display: inline-flex;
+    justify-content: space-around;
+}
